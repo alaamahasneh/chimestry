@@ -16,13 +16,9 @@ html {
 } */
 header{
     height: 145px;
-    background-color:rgba(255,192,203, 0.5);
+    background-color:rgba(18, 143, 165, 0.5);
 }
-header{
-    height: 145px;
-    background-color:rgba(255,192,203, 0.5);
 
-}
 
 header nav ul{
     text-align: center;
@@ -36,35 +32,17 @@ header nav ul li{
 header nav ul li:hover{
   cursor: grab;
   color: white;
-  transform: scale(1.1) ;
+  transform: scale(2.1) ;
   transition: 150ms;
 
     
 }
 
-  /* nav ul{
-     text-align: center;
-    
- }
-
-  nav ul li{
-     font-family: 'Lobster';
-     font-size: 20px;
-     display: inline-block;
-     overflow: auto;
-     
-
- }
- nav ul li:hover{
-     cursor: pointer;
-     color: rgba(32, 5, 5, 0.658);
-     transform: scale(2.1);
-     transition:250ms;
- } */
   #A{
     background-color:rgb(212, 10, 10) ;
     padding:15px 25px 15px 25px;
     border-radius: 50px;
+
 }
 #B{
   background-color:rgb(191, 226, 35) ;
@@ -79,6 +57,13 @@ header nav ul li:hover{
   margin-left: 50px;
 
 } 
+#D{
+  background-color:rgb(110, 111, 112) ;
+  padding:15px 25px 15px 25px;
+  border-radius: 50px;
+  margin-left: 50px;
+
+}
 p{
     text-align-last: center;
     font-size: 44px;
@@ -92,10 +77,39 @@ footer {
 
   }
   main{
-    background-color: rgba(0,0,0, .5);
     height: fit-content;
-    margin: 100px 25px 25px 25px;
+    background-color: rgba(0,0,0, .5);
+    /* margin: 100px 25px 25px 25px; */
     border-radius: 25px;
+    /* margin: 40px 200px; */
+    
+    
+  }
+ 
+  .x{
+    margin: 40px 300px;
+    border-radius: 5%;
+    
+  }
+  .y{
+    margin: 40px 160px;
+    border-radius: 5%;
 
   }
-
+.z{
+  margin: 40px 360px;
+    border-radius: 5%;
+}
+.w{
+  margin: 40px 300px;
+  border-radius: 5%;
+  
+}
+.s{
+  margin: 40px 300px;
+  border-radius: 5%;
+  
+}
+span{
+  font-size: xx-large;
+}
