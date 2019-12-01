@@ -18,7 +18,9 @@ header{
     height: 145px;
     background-color:rgba(18, 143, 165, 0.5);
 }
-
+nav{
+  margin : 20px;
+}
 
 header nav ul{
     text-align: center;
