@@ -1,0 +1,17 @@
+html { 
+    background: url(https://cdn.hipwallpaper.com/i/63/34/Sdj904.jpg) ; 
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+.home{
+    text-align: center;
+display: block;
+background-color:rgb(23, 151, 168) ;
+    padding:15px 25px 15px 25px;
+    border-radius: 50px;
+    margin-left: 50px;
+    font-family: 'Lemonada', cursive;
+font-size: xx-large;
+}

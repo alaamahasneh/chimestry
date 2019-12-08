@@ -1,0 +1,67 @@
+html { 
+    background: url(https://cdn.hipwallpaper.com/i/63/34/Sdj904.jpg) ; 
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+.home{
+    text-align: center;
+display: block;
+background-color:rgb(212, 198, 10) ;
+    padding:15px 25px 15px 25px;
+    border-radius: 50px;
+    margin-left: 50px;
+    font-family: 'Lemonada', cursive;
+    font-size: xx-large;
+
+
+}
+main{
+position: relative;
+margin : 150px;
+}
+main{
+    height: fit-content;
+    background-color: rgba(0,0,0, .5);
+    border-radius: 25px;
+    
+    
+  }
+  .h{
+    margin: 40px 200px;
+    border-radius: 5%;
+  }
+  .j{
+    margin: 40px 200px;
+    border-radius: 5%;
+  }
+  .k{
+    margin: 40px 200px;
+    border-radius: 5%;
+  }
+  .p1{
+      
+    margin: 20px 400px;
+
+  }
+  .p2{
+      
+    margin: 20px 400px;
+
+  }.p3{
+      
+    margin: 20px 400px;
+
+  }
+  .img1{
+    margin: 20px 400px;
+    border-radius: 3%;
+
+  }
+  .img2{
+    margin: 20px 200px;
+    width: 800px;
+    border-radius: 3%;
+
+  }
